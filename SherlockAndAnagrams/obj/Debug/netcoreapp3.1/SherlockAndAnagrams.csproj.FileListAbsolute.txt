@@ -1,0 +1,13 @@
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp3.1\SherlockAndAnagrams.exe
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp3.1\SherlockAndAnagrams.deps.json
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp3.1\SherlockAndAnagrams.runtimeconfig.json
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp3.1\SherlockAndAnagrams.runtimeconfig.dev.json
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp3.1\SherlockAndAnagrams.dll
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\bin\Debug\netcoreapp3.1\SherlockAndAnagrams.pdb
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp3.1\SherlockAndAnagrams.csprojAssemblyReference.cache
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp3.1\SherlockAndAnagrams.AssemblyInfoInputs.cache
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp3.1\SherlockAndAnagrams.AssemblyInfo.cs
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp3.1\SherlockAndAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp3.1\SherlockAndAnagrams.dll
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp3.1\SherlockAndAnagrams.pdb
+C:\Users\fsf91\_projects\SherlockAndAnagrams\SherlockAndAnagrams\obj\Debug\netcoreapp3.1\SherlockAndAnagrams.genruntimeconfig.cache
